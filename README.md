@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisheo
 - 👀 I’m interested in ... Startup
-- 🌱 I’m currently learning ... flutter, machine learning
+- 🌱 I’m currently learning ... Nest.js, Solidity, Machine Learning
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
